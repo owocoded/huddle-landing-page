@@ -29,7 +29,7 @@
             background-image: url(images/bg-desktop.svg);
             background-size: contain;
             max-width: 1000px;
-            height: 550px;
+            height: 500px;
         }
         
         .container {
@@ -63,10 +63,10 @@
         }
         
         .huddle {
-            margin: 20px 50px 30px 0px;
+            margin: 20px 70px 30px 0px;
             color: hsl(0, 0%, 90%);
             font-weight: 400;
-                font-size: small;
+            font-size: small;
         }
         
         .reg {
