@@ -28,7 +28,7 @@
             background-color: hsl(257, 40%, 49%);
             background-image: url(images/bg-desktop.svg);
             background-size: contain;
-            max-width: 1000px;
+            max-width: 950px;
             height: 500px;
         }
         
@@ -41,7 +41,7 @@
         }
         
         .mockup {
-            width: 400px;
+            width: 450px;
             height: 300px;
             display: block;
         }
