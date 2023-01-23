@@ -42,7 +42,7 @@
         
         .mockup {
             width: 400px;
-                height: 400px
+                height: 400px;
             display: block;
         }
         
@@ -59,7 +59,7 @@
             color: hsl(0, 0%, 100%);
             margin: 0px 100px 0px 0px;
             font-family: 'Poppins', sans-serif;
-                font-size: 18px
+                font-size: 18px;
             font-weight: 600;
         }
         
